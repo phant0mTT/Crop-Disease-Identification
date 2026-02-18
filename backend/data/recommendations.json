@@ -1,0 +1,44 @@
+[
+  {
+    "crop": "Rice",
+    "soilType": "Clay",
+    "season": "Kharif",
+    "fertilizers": ["Urea", "DAP"],
+    "pesticides": ["Chlorpyrifos"]
+  },
+  {
+    "crop": "Wheat",
+    "soilType": "Loamy",
+    "season": "Rabi",
+    "fertilizers": ["Urea", "Potash"],
+    "pesticides": ["Imidacloprid"]
+  },
+  {
+    "crop": "Maize",
+    "soilType": "Sandy",
+    "season": "Kharif",
+    "fertilizers": ["NPK"],
+    "pesticides": ["Carbaryl"]
+  },
+  {
+    "crop": "Rice",
+    "soilType": "Loamy",
+    "season": "Kharif",
+    "fertilizers": ["Urea", "Superphosphate"],
+    "pesticides": ["Malathion"]
+  },
+  {
+    "crop": "Wheat",
+    "soilType": "Clay",
+    "season": "Rabi",
+    "fertilizers": ["NPK", "Potash"],
+    "pesticides": ["Thiamethoxam"]
+  },
+  {
+    "crop": "Maize",
+    "soilType": "Loamy",
+    "season": "Rabi",
+    "fertilizers": ["Urea", "DAP"],
+    "pesticides": ["Lambda-cyhalothrin"]
+  }
+]
