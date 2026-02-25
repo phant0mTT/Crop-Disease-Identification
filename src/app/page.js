@@ -163,23 +163,6 @@ export default function Home() {
           <p>MERN Stack Mini Project</p>
         </div>
       </footer>
-
-      {/* ANIMATION */}
-      <style jsx>{`
-        .animate-slideDown {
-          animation: slideDown 0.2s ease-out;
-        }
-        @keyframes slideDown {
-          from {
-            opacity: 0;
-            transform: translateY(-8px);
-          }
-          to {
-            opacity: 1;
-            transform: translateY(0);
-          }
-        }
-      `}</style>
     </div>
   );
 }
